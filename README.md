@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shivangirajput123
+- 👋 Hi, I’m Shivangi Rajput
 - 👀 I’m interested in Java, Python and web development.
 - 🌱 I’m currently learning full stack webdevelopment.
 - 💞️ I’m looking to collaborate on full stack role, UI developing and backend developer role.
