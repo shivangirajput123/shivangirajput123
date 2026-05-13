@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shivangi Rajput
-- 👀 I’m interested in Java, Php and web development.
+- 👀 I’m interested in Python, Php and web development.
 - 💞️ I’m looking to collaborate on full stack role, UI developing and backend developer role.
 - 📫 How to reach me https://www.linkedin.com/in/shivangi-rajput-aa822721a/ and gmail id - rajputshivangiii987@gmail.com
 
